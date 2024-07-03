@@ -1,2 +1,2 @@
 # Html-Practice-code
-Practice my HTML Code in initial days
+Practiced my HTML Code in initial days
